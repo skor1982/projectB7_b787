@@ -1,0 +1,5 @@
+#let's exclude git files from context
+.git
+*.md
+*.sh
+#!get_favicon.sh
